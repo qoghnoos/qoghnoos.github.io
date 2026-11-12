@@ -1,0 +1,10 @@
+{
+ "version_code": 1,
+ "version_name": "1.0.0",
+ "apk_url": "https://github.com/qoghnoos/qoghnoos/releases/latest/download/qoghnoos.apk",
+ "apk_size": 128307069,
+ "apk_sha256": "85ebd2b5c3bb326df828c53620b9c2d593b480f407219514fc845ab37b6bbc50",
+ "patches": {},
+ "force": false,
+ "notes": "نسخه‌ی ۱٫۰٫۰ ققنوس"
+}
