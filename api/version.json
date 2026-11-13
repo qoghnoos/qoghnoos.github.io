@@ -1,10 +1,10 @@
 {
- "version_code": 2,
- "version_name": "1.0.1",
+ "version_code": 3,
+ "version_name": "1.1.0",
  "apk_url": "https://github.com/qoghnoos/qoghnoos/releases/latest/download/qoghnoos.apk",
  "apk_size": 128311165,
- "apk_sha256": "ae137a3fcc2241485a8ec94694951fd9bb6cfc08c46d13604472b67c74b6e2b4",
+ "apk_sha256": "fa61623a8a3da16a458fbbadb52efb007d29dba8255a29a48e734f1c0fc7c705",
  "patches": {},
  "force": false,
- "notes": "نسخه‌ی ۱٫۰٫۱ ققنوس — رفع مشکل وصل‌نشدن"
+ "notes": "نسخه‌ی ۱٫۱٫۰ ققنوس — قالب سریع، سرعت اتصال بیشتر"
 }
