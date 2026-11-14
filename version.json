@@ -1,0 +1,41 @@
+{
+ "version_code": 8,
+ "version_name": "1.2.2",
+ "apk_url": "https://github.com/qoghnoos/qoghnoos/releases/latest/download/qoghnoos.apk",
+ "apk_size": 94969656,
+ "apk_sha256": "94b902fe56d923c9c9e1215007ea1664d136e4f992b3ceea7fc6fee29d148ce8",
+ "patches": {
+  "2": {
+   "url": "https://github.com/qoghnoos/qoghnoos/releases/download/v1.2.2/2-8.pdl",
+   "size": 745425,
+   "sha256": "d3bc5e8186dd149349bd350330fe55d85ba738cfaaa5151db90367045532fc73"
+  },
+  "3": {
+   "url": "https://github.com/qoghnoos/qoghnoos/releases/download/v1.2.2/3-8.pdl",
+   "size": 732589,
+   "sha256": "d051ca1000af2377673ddc4e6207e4e85931ddfb3634ce3371a15dcdb56ed672"
+  },
+  "4": {
+   "url": "https://github.com/qoghnoos/qoghnoos/releases/download/v1.2.2/4-8.pdl",
+   "size": 745423,
+   "sha256": "fad41ac3f57c04c2baefb14c6a740287a95916152a2b0de9f4bce5deebb1aa73"
+  },
+  "5": {
+   "url": "https://github.com/qoghnoos/qoghnoos/releases/download/v1.2.2/5-8.pdl",
+   "size": 732588,
+   "sha256": "85637c46b01c022ab90863b796cb82ca0de7e5ec23f0f94ed736fd4748c88155"
+  },
+  "6": {
+   "url": "https://github.com/qoghnoos/qoghnoos/releases/download/v1.2.2/6-8.pdl",
+   "size": 745387,
+   "sha256": "661aae4c9caedf1f3c78e07bd7cce316db832f64fee524ee385b4c145c692dc3"
+  },
+  "7": {
+   "url": "https://github.com/qoghnoos/qoghnoos/releases/download/v1.2.2/7-8.pdl",
+   "size": 745390,
+   "sha256": "4f79d089e2fd0c7091a7d2852f0e6623c6e218bf293d1507497bb81be64653d3"
+  }
+ },
+ "force": false,
+ "notes": "نسخه‌ی ۱٫۲٫۲ ققنوس — رفع قطعی مشکل وصل‌نشدن نسخه‌های ۱٫۲٫۰ و ۱٫۲٫۱ (خطای راه‌اندازی موتور اتصال)؛ اگر نسخه‌ی قبلی وصل نمی‌شد، این نسخه را امتحان کنید"
+}
