@@ -1,46 +1,51 @@
 {
- "version_code": 9,
- "version_name": "1.2.3",
+ "version_code": 10,
+ "version_name": "1.2.4",
  "apk_url": "https://github.com/qoghnoos/qoghnoos/releases/latest/download/qoghnoos.apk",
  "apk_size": 95125387,
- "apk_sha256": "a0f070cd2cdfcd45e2b7b88c4cdae4fe9ddeaaf99cd06225d47f23afd9d0617b",
+ "apk_sha256": "d414f6a6314bf243a819a48da1dab6da5dc1b8b3f6b27716160a3669b3be0529",
  "patches": {
   "2": {
-   "url": "https://github.com/qoghnoos/qoghnoos/releases/download/v1.2.3/2-9.pdl",
-   "size": 883982,
-   "sha256": "b86ff9bcf40425d781c9efc10cd7c235011d1ecf04b98eeb2ffd6104e444d007"
+   "url": "https://github.com/qoghnoos/qoghnoos/releases/download/v1.2.4/2-10.pdl",
+   "size": 885273,
+   "sha256": "47e9810e1cbac3bc1578d9eace120b13e7d752143903965e3ae599fcc9481d54"
   },
   "3": {
-   "url": "https://github.com/qoghnoos/qoghnoos/releases/download/v1.2.3/3-9.pdl",
-   "size": 896780,
-   "sha256": "499d460f191d954d793032d90f0724047a689d8f007a035ce433766dbc448459"
+   "url": "https://github.com/qoghnoos/qoghnoos/releases/download/v1.2.4/3-10.pdl",
+   "size": 898124,
+   "sha256": "743566cdf14565c0142f39130d8b0a82dd2f503625a01be8282119de9c7dba81"
   },
   "4": {
-   "url": "https://github.com/qoghnoos/qoghnoos/releases/download/v1.2.3/4-9.pdl",
-   "size": 896778,
-   "sha256": "f46633946dc7b1d9c35ee0faee13d07dec235f4ac1f735be00f9b2bd321eebf9"
+   "url": "https://github.com/qoghnoos/qoghnoos/releases/download/v1.2.4/4-10.pdl",
+   "size": 898125,
+   "sha256": "2c391826a75d8d6bd807f03722502ee9a2f2313bb11f0c32d9721038d4980b35"
   },
   "5": {
-   "url": "https://github.com/qoghnoos/qoghnoos/releases/download/v1.2.3/5-9.pdl",
-   "size": 896778,
-   "sha256": "0542bdf134345b80fc4ee020df1cac65f62c96121253e5a036768e01b7c083b3"
+   "url": "https://github.com/qoghnoos/qoghnoos/releases/download/v1.2.4/5-10.pdl",
+   "size": 898123,
+   "sha256": "7d80bb21093fae30f3fe56c71f8b5bc8b2d0672f49d7e40e2e27af837c74df15"
   },
   "6": {
-   "url": "https://github.com/qoghnoos/qoghnoos/releases/download/v1.2.3/6-9.pdl",
-   "size": 896742,
-   "sha256": "576dd7c2955d5ef341dd8b308fa5748027f987fb21e2b3e0c0536c921c7974eb"
+   "url": "https://github.com/qoghnoos/qoghnoos/releases/download/v1.2.4/6-10.pdl",
+   "size": 898102,
+   "sha256": "405d3fcfc3eb0bb3a0b4ab36259f3a0fdc5992d73940d81958abbcf5f8b5552f"
   },
   "7": {
-   "url": "https://github.com/qoghnoos/qoghnoos/releases/download/v1.2.3/7-9.pdl",
-   "size": 896742,
-   "sha256": "07dd6ee0d01aeecc7f382ea92f7cfdc364ed90a5f4b8df762885eefd0bcbc65f"
+   "url": "https://github.com/qoghnoos/qoghnoos/releases/download/v1.2.4/7-10.pdl",
+   "size": 898101,
+   "sha256": "87aaf10418c78e3a7caf2786e85c515b0620c7873698e7109b44f692bbdd357f"
   },
   "8": {
-   "url": "https://github.com/qoghnoos/qoghnoos/releases/download/v1.2.3/8-9.pdl",
-   "size": 896744,
-   "sha256": "95c56c654c38e71a209629fbd733c9cb805ea612f224b702482616ee67ce43e9"
+   "url": "https://github.com/qoghnoos/qoghnoos/releases/download/v1.2.4/8-10.pdl",
+   "size": 898098,
+   "sha256": "82162651e81fe52b771378a909fda4de9e28fc7afd4d22183f316be42306cb3f"
+  },
+  "9": {
+   "url": "https://github.com/qoghnoos/qoghnoos/releases/download/v1.2.4/9-10.pdl",
+   "size": 738184,
+   "sha256": "92244d97ce3848e4380d68082135c4689746becc4a2f4fd9a89024040d9938bc"
   }
  },
  "force": false,
- "notes": "نسخه‌ی ۱٫۲٫۳ ققنوس — رفع مشکل «وصل می‌شود ولی سایتی باز نمی‌شود» (بازسازی مسیر تونل)؛ اگر نسخه‌ی قبلی فقط وصل می‌شد، این نسخه را امتحان کنید"
+ "notes": "نسخه‌ی ۱٫۲٫۴ ققنوس — رفع خطای اتصال اشتراک‌ها (allowInsecure)؛ اشتراک‌هایی که با خطای کانفیگ وصل نمی‌شدند حالا باید وصل شوند"
 }
